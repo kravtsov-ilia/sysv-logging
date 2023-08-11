@@ -4,7 +4,7 @@ import setuptools
 setuptools.setup(
     name='sysv_logging',
     packages=['sysv_logging'],
-    version='0.1.0',
+    version='0.1.1',
     license='MIT',
     description='Shared memory logging. Logger uses system V message queues',
     long_description='Shared memory logging. Logger uses system V message queues',
